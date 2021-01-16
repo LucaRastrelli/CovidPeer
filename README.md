@@ -1,4 +1,4 @@
-# CovidPeer
+# P2P_UDP
 Local P2P app that shares COVID-19 data. Peers discover neighbors thanks to the discovery server.
 Everything is in localhost, it doesn't work in multihost. It could be implemented with easy steps. 
 Peers message each other with UDP protocol.
