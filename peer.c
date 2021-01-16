@@ -576,7 +576,7 @@ int main(int argc, char* argv[]) {
     printf("\tAggiunge un nuovo evento: type = N (nuovo caso)/ T(tampone), quantity = numero dei casi o tamponi\n\n");
     printf("3) get aggr type period\n");
     printf("\tEffettua una richiesta di elaborazione: aggr = totale / variazione, type = N / T,\n");
-    printf("\tperiod = dd1:mm1:yyyy1-dd2:mm2:yyyy2 (1 è la data più lontana e 2 la più vicina). Una data\n");
+    printf("\tperiod = yyyy1:mm1:dd1-yyyy2:mm2:dd2 (1 è la data più lontana e 2 la più vicina). Una data\n");
     printf("\tpuò essere sostituita con *, in quel caso non si ha limite inferiore o superiore. E' anche\n");
     printf("\tpossibile omettere il periodo. Viene eseguito il calcolo su tutti i dati\n\n");
     printf("4) stop\n");
